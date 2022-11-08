@@ -1,0 +1,24 @@
+{
+  "name": "5plus2022",
+  "version": "1.0.0",
+  "description": "A collection of notes and learnings from 5 plus",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielhbury/5Plus2022.git"
+  },
+  "author": "Daniel Bury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielhbury/5Plus2022/issues"
+  },
+  "homepage": "https://github.com/danielhbury/5Plus2022#readme",
+  "devDependencies": {
+    "eslint": "^8.27.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
